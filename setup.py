@@ -50,7 +50,7 @@ setup(
       use_scm_version={
           'write_to': 'src/dateutil/_version.py',
       },
-      version="2.8.2.dev0",
+      version="2.8.3",
       ## Needed since doctest not supported by PyPA.
       long_description = README,
       cmdclass={
